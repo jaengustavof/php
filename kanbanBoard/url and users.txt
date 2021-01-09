@@ -1,0 +1,14 @@
+
+URL:
+https://jaenwebdesign.com/PHP/Proyecto/
+
+Usuarios:
+
+Standard User: pepe@gmail.com
+Password: 1234
+https://jaenwebdesign.com/PHP/Proyecto/
+
+AdminUser:: jaengustavof@alumnos.cei.es
+Password: 1234
+https://jaenwebdesign.com/PHP/Proyecto/admin
+
